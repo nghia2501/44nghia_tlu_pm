@@ -1,0 +1,32 @@
+* {
+    padding: 0px;
+    margin: 0px auto;
+}
+
+#login {
+    margin-top: 200px;
+    width: 600px;
+    height: 300px;
+    background-color: lightskyblue;
+    border-radius: 10%;
+}
+
+#form {
+    margin-top: 140px;
+    margin-left: 200px;
+    padding-top: 70px;
+}
+
+#form input {
+    width: 200px;
+    height: 30px;
+    border-radius: 10%;
+}
+
+#form button {
+    width: 100px;
+    height: 50px;
+    margin-top: 10px;
+    background-color: gold;
+    color: aliceblue;
+}
